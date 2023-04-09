@@ -50,7 +50,7 @@ button {
   padding-right: 15px;
 }
 
-/*SECTION HEADER*/
+
 
 .body {
   font-family: "Roboto", sans-serif;
@@ -144,7 +144,7 @@ button {
   color: var(--pressed-state-color);
 }
 
-/*SECTION ONE*/
+
 .main-content-hero {
   background-color: var(--background-dark-color);
 }
@@ -254,7 +254,7 @@ button {
   flex-basis: calc((100% - 48px) / 3);
 }
 
-/*SECTION FOUR*/
+
 
 .our-team {
   background-color: var(--background-section-color);
@@ -318,7 +318,7 @@ button {
   border-radius: 0px 0px 4px 4px;
 }
 
-/*SECTION FOOTER*/
+
 
 .peage-footer {
   background: var(--background-dark-color);
@@ -362,7 +362,7 @@ button {
 
 .content-portfolio {
   padding-top: 96px;
-  padding-bottom: 72px;
+  padding-bottom: 120px;
 }
 
 .portfolio-button {
